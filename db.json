@@ -1,6 +1,10 @@
 {
   "facts": [
-    "If Chuck Norris cried, his tears could replace rocket fuel.",
-    "Chuck Norris knows where it's at. It's at his house."
+    {
+      "value": "If Chuck Norris cried, his tears could replace rocket fuel."
+    },
+    {
+      "value": "Chuck Norris knows where it's at. It's at his house."
+    }
   ]
 }
